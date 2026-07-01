@@ -135,7 +135,3 @@ After completing this lab, you can:
 - Document endpoint scan activity like a SOC analyst
 
 ---
-
-## Next Lab
-
-**Microsoft Defender Lab 07 — Controlled Folder Access Investigation**
